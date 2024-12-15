@@ -28,9 +28,16 @@ The project includes the following models to represent the JSON structure:
 A sample JSON file `json_example.json` provides test data for the app.
 
 ---
+## 👨‍💻 Authors
+
+This project was collaboratively built by:
+
+- **Ryad**  
+- **Rafi**  
+- **Faruk**  
 
 ## 🛠 Installation and Usage
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/json-parsing-swiftui.git
+   git clone https://github.com/Riyadh08/Json_Assignment/tree/main
