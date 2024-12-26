@@ -32,9 +32,9 @@ A sample JSON file `json_example.json` provides test data for the app.
 
 This project was collaboratively built by:
 
-- **Ryad**  
-- **Rafi**  
-- **Faruk**  
+- **Ryad (2007008)**  
+- **Rafi (2007018)**  
+- **Faruk (2007016)**  
 
 ## 🛠 Installation and Usage
 
